@@ -62,7 +62,7 @@ ul li {
   padding-bottom: 20px;
 }
 
-@media (max-width: 768px){
+@media (max-width: 768px) {
   .yup1 {
     width: 85%;
     margin-left: 8%;
